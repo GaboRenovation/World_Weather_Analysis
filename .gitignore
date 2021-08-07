@@ -72,6 +72,9 @@ instance/
 docs/_build/
 
 .DS_Store
+config.py
+API_practice.ipynb
+random_numbers.ipynb
 # PyBuilder
 target/
 
